@@ -1,5 +1,3 @@
-//Omar Dalal 1180171 Section 2
-
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.FileInputStream;
