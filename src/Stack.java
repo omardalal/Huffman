@@ -1,4 +1,3 @@
-//Omar Dalal 1180171 Section 2
 //Stack Class used to read postFix from an encoded file
 public class Stack {
 
