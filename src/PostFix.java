@@ -1,4 +1,3 @@
-//Omar Dalal 1180171 Section 2
 //Class that contains many methods related to generating and reading postfix
 public class PostFix {
 	//Public method used to generate the postfix from the root node of a tree
