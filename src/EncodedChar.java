@@ -1,5 +1,3 @@
-//Omar Dalal 1180171 Section 2
-
 //Used to create objects that contain every character and it's code
 public class EncodedChar {
 	
