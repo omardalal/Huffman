@@ -1,5 +1,3 @@
-//Omar Dalal 1180171 Section 2
-
 //Huffnode used to build heap (HuffTree)
 public class HufNode implements Comparable<HufNode> {
 
