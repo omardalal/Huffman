@@ -1,4 +1,3 @@
-//Omar Dalal 1180171 Section 2
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
 import javafx.scene.layout.Pane;
