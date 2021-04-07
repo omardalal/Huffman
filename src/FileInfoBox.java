@@ -1,5 +1,3 @@
-//Omar Dalal 1180171 Section 2
-
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
