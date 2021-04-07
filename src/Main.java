@@ -1,6 +1,4 @@
-//Omar Dalal 1180171 Section 2
 import java.io.File;
-
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.concurrent.Service;
