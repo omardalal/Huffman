@@ -1,4 +1,3 @@
-//Omar Dalal 1180171 Section 2
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;
