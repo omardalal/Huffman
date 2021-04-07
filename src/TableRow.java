@@ -1,4 +1,3 @@
-//Omar Dalal 1180171 Section 2
 //Class used to build rows in characters table
 public class TableRow {
 	
