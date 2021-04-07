@@ -1,5 +1,3 @@
-//Omar Dalal 1180171 Section 2
-
 //MinHeap Class (Huff Tree)
 public class Heap {
 	
